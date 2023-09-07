@@ -16,6 +16,7 @@ module.exports = {
     ".eslintrc.cjs",
     "postcss.config.js",
     "tailwind.config.js",
+    "vite.config.ts",
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
@@ -24,6 +25,7 @@ module.exports = {
   plugins: ["react-refresh", "simple-import-sort"],
   rules: {
     "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/naming-convention": "off",
     "@typescript-eslint/no-non-null-assertion": "off",
     "import/no-default-export": "off",
     "import/order": "off",
