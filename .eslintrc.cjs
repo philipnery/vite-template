@@ -27,6 +27,7 @@ module.exports = {
     "@typescript-eslint/explicit-function-return-type": "off",
     "@typescript-eslint/naming-convention": "off",
     "@typescript-eslint/no-non-null-assertion": "off",
+    "eslint-comments/require-description": "off",
     "import/no-default-export": "off",
     "import/order": "off",
     "react-refresh/only-export-components": [
