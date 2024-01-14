@@ -4,9 +4,9 @@ This template contains the following:
 
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) for Fast Refresh
 - ESLint + [@vercel/style-guide](https://github.com/vercel/style-guide)
-- Prettier 3.0
-- Tailwind 3.3
-- Typescript 5.2
+- Prettier 3.2
+- Tailwind 3.4
+- Typescript 5.3
 - pre-commit
 
 ## Installation
